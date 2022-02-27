@@ -17,7 +17,7 @@
 - Fully responsive.
 
 ## screenshot
-<img src="">
+<img src="https://github.com/Pooja-saini467/Advice-generator-app-main/blob/main/design/desktop-design.jpg">
 
 ## Demo
 
